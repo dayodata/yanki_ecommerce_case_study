@@ -31,9 +31,3 @@ tmp/
 build/
 dist/
 *.egg-info/
-
-# Data files (optional - uncomment if you don't want to store datasets)
-*.csv
-*.xlsx
-*.parquet
-*.json
