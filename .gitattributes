@@ -1,0 +1,11 @@
+* text=auto
+
+*.py text
+*.sql text
+*.csv text
+
+*.xlsx binary
+*.parquet binary
+*.png binary
+*.jpg binary
+*.pdf binary
